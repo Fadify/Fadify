@@ -13,17 +13,6 @@
 <!-- Also feel free to update second URL to any URL -->
 [![Fadify's github stats](https://github-readme-stats.vercel.app/api?username=Fadify&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-## Connect with me:
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Discord]
-
-<br />
-
-<!-- Optional if you have blogs -->
-## Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- This section you create this variables that are used above -->
 [website]: https://google.com
 [twitter]: https://twitter.com/indrajeet_nikam
 [linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
