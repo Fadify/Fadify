@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on RO:TX
 - 🌱 I’m currently learning how to sleep
 - 👯 I’m looking to collaborate with nobody
-- 💬 Ask me about - Lua
-- 🥅 2020 Goal - reach 1k members for the RO:TX discord.
-- ⚡ Fun fact - I like ray tracing
+- 💬 Ask me about -  how to be clown
+- 🥅 2020 Goal - reach 10 members for the RO:TX discord.
+- ⚡ Fun fact - I like any sort/type of tracing, path, ray tracing etc.
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
