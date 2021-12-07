@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning how to sleep
 - 👯 I’m looking to collaborate with nobody
 - 💬 Ask me about -  how to be clown
-- 🥅 2020 Goal - reach 10 members for the RO:TX discord.
+- 🥅 2022 Goal - Create a new project.
 - ⚡ Fun fact - I like any sort/type of tracing, path, ray tracing etc.
 
 <!-- ❔❔❔❔ means username in below README.md -->
